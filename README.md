@@ -14,7 +14,7 @@
 - **Languages**:
 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-    ![C++](https://img.shields.io/badge/C++%20-%2314354C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%338AFF.svg?style=for-the-badge&color=338AFF&logo=cplusplus&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 
