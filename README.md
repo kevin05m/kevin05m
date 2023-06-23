@@ -1,6 +1,6 @@
-### Kevin Gustavo Moreno Castro 👋
+<h1 align="center"><b>Hi , I'm Kevin Moreno </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Kevin+Gustavo+Moreno+Castro;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Kevin+Gustavo+Moreno+Castro;Developer+Fullstack;Language+prefer:+Python)](https://git.io/typing-svg)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
