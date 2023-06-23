@@ -14,8 +14,17 @@
 - **Languages**:
 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-    ![C++](https://img.shields.io/badge/C++%20-%338AFF.svg?style=for-the-badge&color=338AFF&logo=cplusplus&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%338AFF.svg?style=for-the-badge&color=338AFF&logo=cplusplus&logoColor=white)&nbsp;
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 
 <br> 
+
+- **Softwares and Tools**:
+
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)&nbsp;
+    ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+
+<br>
