@@ -28,3 +28,8 @@
     ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 <br>
+
+- **Web Development**:
+    ![HTML](https://img.shields.io/badge/html-%23F05033.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+    ![CSS](https://img.shields.io/badge/css-%23F05033.svg?style=for-the-badge&color=blue&logo=css3&logoColor=white)&nbsp;
+<br> 
